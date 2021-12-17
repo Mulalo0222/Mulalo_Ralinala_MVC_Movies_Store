@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\mulal\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\mulal\\.nuget\\packages"
+    ]
+  }
+}
